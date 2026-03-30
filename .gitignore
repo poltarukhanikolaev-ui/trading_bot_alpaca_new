@@ -1,0 +1,19 @@
+# Секреты — НИКОГДА не коммитить
+config/settings.py
+
+# Состояние бота
+positions_meta.json
+positions_meta.json.bak
+trades.csv
+bot.log
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
